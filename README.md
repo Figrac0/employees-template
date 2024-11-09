@@ -42,23 +42,21 @@ bash
 
 ## ***⚙️ Установка и запуск***<br>  
 ### Клонирование репозитория<br>  
-```bash<br>  
-git clone https://github.com/Figrac0/employees-template.git<br>  
-cd employees-template<br>  
-Установка зависимостей<br>
-Убедитесь, что у вас установлен Node.js.<br>
-Затем выполните:<br>
+ 
+git clone https://github.com/Figrac0/employees-template.git 
+cd employees-template
+Установка зависимостей
+Убедитесь, что у вас установлен Node.js.
+Затем выполните:
 
-bash<br>
-Копировать код
-npm install<br>  
-Запуск приложения<br>
-Для запуска приложения в режиме разработки:<br>
 
-bash<br>
-Копировать код
-npm start<br>  
-Приложение будет доступно по адресу http://localhost:3000.<br>
+npm install  
+Запуск приложения
+Для запуска приложения в режиме разработки:
+
+
+npm start
+Приложение будет доступно по адресу http://localhost:3000.
 
 
 
